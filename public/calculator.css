@@ -1,0 +1,49 @@
+.mainc{
+	height: 300px;
+	border:none;
+}
+
+.r1{
+	text-align: right;
+	background-color: grey;
+	font-weight: bolder;
+	font-size: 30px;
+	height: 50px;
+	color: white;
+
+}
+
+
+.r2, .r3, .r4, .r5{
+	text-align: center;
+	font-weight: bold;
+	border-bottom: 1px;	
+	
+}
+
+.r6{
+	text-align: center;
+	font-weight: bold;
+}
+
+div.col-md-6{
+	border-right:solid grey 1px;
+}
+
+.multiply, .divide, .pl, .eq, .minus{
+	background-color: #FF7F50;
+	color: white;
+	}
+
+.one, .two, .thr, .fou, .fiv, .six, .sev, .eig, .nin, .zer, .dot, .AC, .pm, .per{
+	background-color: #d3d3d3;
+	border-right:solid grey 1px;
+    border-bottom:solid grey 1px;
+}
+
+.zer, .dot{
+	background-color: #d3d3d3;
+	border-right:solid grey 1px;
+    border-bottom:none;
+}
+
